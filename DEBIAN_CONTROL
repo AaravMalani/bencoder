@@ -1,0 +1,5 @@
+Package: bencoder
+Version: 1.0
+Architecture: amd64
+Maintainer: Aarav Malani <aarav.malani@gmail.com>
+Description: A parser for BitTorrent .torrent files
